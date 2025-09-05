@@ -11,4 +11,4 @@ Here are some ideas to get you started:-->
 
 [![y1ny's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1ny&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1ny&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1ny&layout=donut&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
